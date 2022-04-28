@@ -1,1 +1,1 @@
-# git-github-examples
+# Git and GitHub Examples
